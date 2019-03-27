@@ -1,0 +1,17 @@
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/entity/Message.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/entity/UserProjectRef.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/config/TokenConfig.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/entity/Authority.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/config/ResourceServerConfig.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/stream/LoggerEventSink.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/entity/User.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/entity/Card.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/config/SwaggerConfig.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/vo/JwtUserInfo.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/config/RestTemplateConfig.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/filter/JwtSecurityFilter.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/vo/WebSocketContext.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/config/JwtFilterConfig.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/entity/Project.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/entity/Todo.java
+/Users/gaodawei/projects/spring-cloud-demo/ms-common/src/main/java/demo/ms/common/filter/JwtAuthentication.java
